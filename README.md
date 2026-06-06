@@ -22,5 +22,22 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
 
+---
+
+## 📊 Data & ML Skills
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-purple?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-orange?style=for-the-badge)
+
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-red?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-yellow?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-blue?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-grey?style=for-the-badge)
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-purple?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-purple?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
