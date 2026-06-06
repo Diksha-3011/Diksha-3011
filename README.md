@@ -67,4 +67,4 @@
 - Evaluated performance using accuracy and error metrics  
 - Applied feature engineering to improve results
 
-[![LinkedIn](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/diksha-narayan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/diksha-narayan/)
